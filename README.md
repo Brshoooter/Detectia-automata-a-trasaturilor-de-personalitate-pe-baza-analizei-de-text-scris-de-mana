@@ -1,0 +1,1 @@
+# Detec-ia-automat-tr-s-turilor-de-personalitate-pe-baza-analizei-de-text-scris-de-m-n-
