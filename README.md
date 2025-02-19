@@ -1,1 +1,1 @@
-# Detec-ia-automat-tr-s-turilor-de-personalitate-pe-baza-analizei-de-text-scris-de-m-n-
+# Detectia automata a trasaturilor de personalitate pe baza analizei de text scris de mana
